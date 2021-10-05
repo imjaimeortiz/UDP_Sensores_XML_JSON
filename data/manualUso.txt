@@ -1,0 +1,9 @@
+USO :
+	Al ejecutarse se verá el ID del servidor.
+	Para usarlo, hay que escribir el número de ID del servidor y hay 2 funcionalidades :
+		 1 - detener el envío de datos : ID stop
+		 2 - asignar nueva frecuencia de envío : ID frecuencia
+		 3 - cambiar JSON-XML : ID XML/JSON
+
+	Para cambiar el formato de envío del cliente : client XML/JSON
+	Para para el cliente : client stop

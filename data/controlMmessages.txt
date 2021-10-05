@@ -1,0 +1,14 @@
+{"action":"XML"}
+
+<client><action>200</action>
+</client>
+
+<client><action>500</action>
+</client>
+
+<client><action>stop</action>
+</client>
+
+<client><action>stop</action>
+</client>
+
